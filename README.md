@@ -1,9 +1,11 @@
 # misakaX
 
-The ultimate customization tool with TrollRestore  
+The ultimate customization tool with TrollRestore
 https://github.com/JJTech0130/TrollRestore
 
 Developer: [@34306](https://github.com/34306) [@straight-tamago](https://github.com/straight-tamago)
+
+## Currently Supports MacOS Only
 
 - Dynamic Island
 - Charge Limit

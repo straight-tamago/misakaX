@@ -3,7 +3,7 @@
 The ultimate customization tool with TrollRestore  
 https://github.com/JJTech0130/TrollRestore
 
-Developer: [@34306](https://github.com/34306) @straight-tamago 
+Developer: [@34306](https://github.com/34306) [@straight-tamago](https://github.com/straight-tamago)
 
 - Dynamic Island
 - Charge Limit

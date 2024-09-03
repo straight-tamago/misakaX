@@ -1,6 +1,6 @@
 # misakaX
 
-The ultimate customization tool with TrollRestore
+The ultimate customization tool with TrollRestore  
 https://github.com/JJTech0130/TrollRestore
 
 Developer: @34306 @straight-tamago 

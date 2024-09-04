@@ -22,7 +22,7 @@ Developer: [@34306](https://github.com/34306) [@straight-tamago](https://github.
 - MultiTask like iPad (in setting) (iOS 18.0+)
 
 PLEASE USE IT AT YOUR OWN RISK! HIGHLY BOOTLOOPED (BECAUSE IT'S EDIT MOBILEGESTALT).
-REMEMBER TO BACKUP YOUR PHONE BEFORE USUNG THIS!
+REMEMBER TO BACKUP YOUR PHONE BEFORE USING THIS!
 
 Some more features will be added. Please look forward to it ❤️
 

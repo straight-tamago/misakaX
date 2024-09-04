@@ -19,4 +19,4 @@ Developer: [@34306](https://github.com/34306) [@straight-tamago](https://github.
 
 Some more features will be added. Please look forward to it ❤️
 
-<img width="794" alt="スクリーンショット 2024-09-04 8 11 47" src="https://github.com/user-attachments/assets/0540715e-2758-4393-9b56-3d2c7760eab1">
+<img width="1129" alt="スクリーンショット 2024-09-04 21 33 16" src="https://github.com/user-attachments/assets/c53f0242-a49a-4c55-93bc-b229d588eaf5">

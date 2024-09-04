@@ -7,19 +7,22 @@ https://github.com/JJTech0130/TrollRestore
 
 Developer: [@34306](https://github.com/34306) [@straight-tamago](https://github.com/straight-tamago)
 
-- Dynamic Island
-- Charge Limit
-- Boot Chime
-- Stage Manager
-- Shutter Sound
-- AoD (18.0+)
-- Apple Pencil
-- Action Button
-- Internal Storage
-- Clock UI
-- SOS Collision
-- Taptowake (iPhone SE 2/3)
-- MultiTask like iPad (in setting)
+- Dynamic Island (iOS 17.0+)
+- Charge Limit (iOS 17.0+)
+- Boot Chime (iOS 17.0+)
+- Stage Manager (iOS 17.0+)
+- Shutter Sound (iOS 17.0+)
+- AoD (iOS 18.0+)
+- Apple Pencil (iOS 18.0+)
+- Action Button (iOS 17.0+)
+- Internal Storage (iOS 18.0+)
+- Clock UI (iOS 18.0+)
+- SOS Collision (iOS 18.0+)
+- Taptowake (iPhone SE 2/3) (iOS 18.0+)
+- MultiTask like iPad (in setting) (iOS 18.0+)
+
+PLEASE USE IT AT YOUR OWN RISK! HIGHLY BOOTLOOPED (BECAUSE IT'S EDIT MOBILEGESTALT).
+REMEMBER TO BACKUP YOUR PHONE BEFORE USUNG THIS!
 
 Some more features will be added. Please look forward to it ❤️
 

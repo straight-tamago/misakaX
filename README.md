@@ -17,6 +17,9 @@ Developer: [@34306](https://github.com/34306) [@straight-tamago](https://github.
 - Action Button
 - Internal Storage
 - Clock UI
+- SOS Collision
+- Taptowake (iPhone SE 2/3)
+- MultiTask like iPad (in setting)
 
 Some more features will be added. Please look forward to it ❤️
 

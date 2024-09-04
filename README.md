@@ -1,4 +1,5 @@
 # misakaX
+<a href="https://github.com/straight-tamago/misakaX/releases/latest"><img src="https://img.shields.io/github/v/release/straight-tamago/misakaX?color=d774d5" /></a>
 
 The ultimate customization tool with TrollRestore  
 https://github.com/JJTech0130/TrollRestore

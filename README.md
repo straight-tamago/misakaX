@@ -1,7 +1,8 @@
 # misakaX
 The ultimate customization tool, uilitizing the bug that makes [TrollRestore](https://github.com/JJTech0130/TrollRestore) possible.
 
-**Use this tool at your own risk. There is a chance you may bootloop, so create a backup before using.**
+> [!NOTE]
+> **Use this tool at your own risk. There is a chance you may bootloop, so create a backup before using.**
 
 Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github.com/straight-tamago)
 

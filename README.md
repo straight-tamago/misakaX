@@ -20,7 +20,10 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 - Internal Storage (iOS 18.0+)
 - Clock UI (iOS 18.0+)
 - SOS Collision (iOS 18.0+)
-- Taptowake (iPhone SE 2/3) (iOS 18.0+)
+- TapToWake (iPhone SE 2/3) (iOS 18.0+)
+- Apple Intelligence (18.0+)
+- Landscape FaceID
+- Old Photo UI
 
 **Some more features will be added soon. Please look forward to them** ❤️
 

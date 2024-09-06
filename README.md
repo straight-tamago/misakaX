@@ -35,5 +35,5 @@ https://www.icloud.com/shortcuts/e2077174cc424253a24164a1df674ac4
 
 ---
 ## Windows
-iTunes must be installed to run on Windows (don't use microsoft store version)
+iTunes must be installed to run on Windows (don't use microsoft store version)  
 https://secure-appldnld.apple.com/itunes12/052-51516-20240506-351B8BFB-C5A7-4FD8-8262-60CD9FAA1464/iTunes64Setup.exe

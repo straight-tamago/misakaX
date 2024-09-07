@@ -1,7 +1,6 @@
-<img align="left" src="https://github.com/user-attachments/assets/fc5f122a-22d3-44bf-b2b4-222774b7153f"/>
-misakaX
+<img align="left" height="140" src="https://github.com/user-attachments/assets/fc5f122a-22d3-44bf-b2b4-222774b7153f"/>
+<h1 align="left">misakaX</h1>
 
-<img width="300" alt="for macOS" src="https://github.com/user-attachments/assets/fc5f122a-22d3-44bf-b2b4-222774b7153f">
 The ultimate customization tool, uilitizing the bug that makes [TrollRestore](https://github.com/JJTech0130/TrollRestore) possible.
 
 > [!NOTE]

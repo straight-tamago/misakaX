@@ -1,4 +1,5 @@
 # misakaX
+<img width="300" alt="for macOS" src="https://github.com/user-attachments/assets/fc5f122a-22d3-44bf-b2b4-222774b7153f">
 The ultimate customization tool, uilitizing the bug that makes [TrollRestore](https://github.com/JJTech0130/TrollRestore) possible.
 
 > [!NOTE]
@@ -6,7 +7,6 @@ The ultimate customization tool, uilitizing the bug that makes [TrollRestore](ht
 
 Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github.com/straight-tamago)
 
-<img width="300" alt="for macOS" src="https://github.com/user-attachments/assets/fc5f122a-22d3-44bf-b2b4-222774b7153f">
 <img width="800" alt="for macOS" src="https://github.com/user-attachments/assets/9f7cc0a3-aefe-4f06-9076-26a6708bebda">
 <img width="800" alt="for windows" src="https://github.com/user-attachments/assets/dab8b460-b166-45b6-b5d1-bbbcad1a7d86">
 

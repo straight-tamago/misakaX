@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
   <img align="left" height="140" src="https://github.com/user-attachments/assets/fc5f122a-22d3-44bf-b2b4-222774b7153f" alt="misakaX Icon" style="margin-right: 20px;">
   <div>
-    <h1 align="left">misakaX</h1>
+    <h3 align="left">misakaX</h3>
     <p>The ultimate customization tool, utilizing the bug that makes <a href="https://github.com/JJTech0130/TrollRestore">TrollRestore</a> possible.</p>
   </div>
 </div>

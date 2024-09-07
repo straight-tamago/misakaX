@@ -6,9 +6,8 @@
   </div>
 </div>
 
-<div style="background-color: #f9f9f9; border-left: 4px solid #2196F3; padding: 10px; margin: 20px 0;">
-  <strong>NOTE:</strong> Use this tool at your own risk. There is a chance you may bootloop, so create a backup before using.
-</div>
+> [!NOTE]
+> **Use this tool at your own risk. There is a chance you may bootloop, so create a backup before using.**
 
 <p>Developers: 
   <a href="https://github.com/34306">@34306</a> 

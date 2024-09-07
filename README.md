@@ -1,4 +1,4 @@
-<img align="left" src="http://getsileo.app/img/icon.png" width="130" height="130"/>
+<img align="left" src="https://github.com/user-attachments/assets/fc5f122a-22d3-44bf-b2b4-222774b7153f"/>
 misakaX
 
 <img width="300" alt="for macOS" src="https://github.com/user-attachments/assets/fc5f122a-22d3-44bf-b2b4-222774b7153f">

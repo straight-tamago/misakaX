@@ -34,8 +34,6 @@ Developer Mode & Metal HUD (iOS 16.0+)
 
 **Some more features will be added soon. Please look forward to them** ❤️
 
-<img width="1129" alt="スクリーンショット 2024-09-04 21 33 16" src="https://github.com/user-attachments/assets/c53f0242-a49a-4c55-93bc-b229d588eaf5">
-
 ---
 MobileGestalt can be extracted from devices using the Shortcuts app.   
 https://www.icloud.com/shortcuts/e2077174cc424253a24164a1df674ac4

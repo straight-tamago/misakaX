@@ -25,7 +25,7 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 - Apple Intelligence (iOS 18.1 Beta)
 - Landscape FaceID (iOS 17.0+)
 - Old Photo UI (iOS 18.0+)
--iPad Apps Support (iOS 16.0+)
+- iPad Apps Support (iOS 16.0+)
 - Developer Mode & Metal HUD (iOS 16.0+)
 
 **Some more features will be added soon. Please look forward to them** ❤️

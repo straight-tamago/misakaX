@@ -1,7 +1,7 @@
 # misakaX
 An ultimate customization tool, uilitizing the bug that makes [TrollRestore](https://github.com/JJTech0130/TrollRestore) possible.
 
-**iOS 16 ~ 18.0 beta 8/18.1 beta 3**
+**Supported iOS 16 ~ 18.0 beta 8/18.1 beta 3**
 
 > [!NOTE]
 > **Use this tool at your own risk. There is a chance you may bootloop, so create a backup before using.**

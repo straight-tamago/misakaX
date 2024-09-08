@@ -10,6 +10,8 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 <a href="https://github.com/straight-tamago/misakaX/releases"><img src="https://img.shields.io/github/downloads/straight-tamago/misakaX/total?color=d774d5" /></a>
 
 ## Supported Features
+- TrollStore Installer
+
 - Dynamic Island (iOS 17.0+)
 - Charge Limit (iOS 16.0+)
 - Boot Chime (iOS 17.0+)

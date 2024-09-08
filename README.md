@@ -31,7 +31,13 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 - **Old Photo UI** (iOS 18.0+)
 - **iPad Apps Support** (iOS 16.0+)
 - **Developer Mode & Metal HUD** (iOS 16.0+)
- - **Remove MDM Profile** (Beta)
+- **Remove MDM Profile** (Beta)
+
+## Disclaimer
+
+**Remove MDM Profile is not like skip the MDM on setup screen, it just remove the annoying profile that restrict you to install application from iOS 18.0 beta 5 and up, that thing require you to Allow MDM Profile to install the app from a certificate.**
+
+## 
 
 **Some more features will be added soon. Please look forward to them** ❤️
 

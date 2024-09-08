@@ -13,14 +13,14 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 - **TrollStore Installer**
 
 - **Dynamic Island** (iOS 17.0+)
-- **Charge Limit** (iOS 16.0+)
+- **Charge Limit** (iOS 17.0+)
 - **Boot Chime** (iOS 17.0+)
 - **Stage Manager** (iOS 16.0+)
 - **Shutter Sound** (iOS 16.0+)
 - **Always-on Display (AoD)** (iOS 18.0+)
 - **Apple Pencil** (iOS 18.0+)
 - **Action Button** (iOS 17.0+)
-- **Internal Storage** (iOS 16.0+)
+- **Internal Storage** (iOS 17.0+)
 - **Clock UI** (iOS 18.0+)
 - **SOS Collision** (iOS 18.0+)
 - **TapToWake** (iPhone SE 2/3, iOS 18.0+)

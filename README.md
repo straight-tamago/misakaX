@@ -31,6 +31,8 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 - **Old Photo UI** (iOS 18.0+)
 - **iPad Apps Support** (iOS 16.0+)
 - **Developer Mode & Metal HUD** (iOS 16.0+)
+- **CameraControl (18.0 RC+)**
+- **AoD Vibrancy**
 
 **Some more features will be added soon. Please look forward to them** ❤️
 

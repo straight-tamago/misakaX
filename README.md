@@ -1,6 +1,6 @@
 # misakaX
 An ultimate customization tool, uilitizing the bug that makes [TrollRestore](https://github.com/JJTech0130/TrollRestore) possible.
-
+### iOS /iPadOS 16.0 - 18.0 RC / 18.1 beta 3
 **Supported iOS 16 ~ 18.0 beta 8/18.1 beta 3**
 
 > [!NOTE]

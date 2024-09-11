@@ -14,7 +14,7 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 ## Supported Features
 - **TrollStore Installer**
 
-- **Dynamic Island** (iOS 17.0+)
+- **Dynamic Island** (iOS 16.0+)
 - **Charge Limit** (iOS 17.0+)
 - **Boot Chime** (iOS 17.0+)
 - **Stage Manager** (iOS 16.0+)
@@ -31,8 +31,9 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 - **Old Photo UI** (iOS 18.0+)
 - **iPad Apps Support** (iOS 16.0+)
 - **Developer Mode & Metal HUD** (iOS 16.0+)
-- **CameraControl (18.0 RC+)**
-- **AoD Vibrancy**
+- **CameraControl** (18.0 RC+)
+- **AoD Vibrancy** (may affect others tweak, iOS 18.0+)
+- **Sleep apnea** (iOS 18.0RC+)
 
 **Some more features will be added soon. Please look forward to them** ❤️
 

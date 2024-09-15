@@ -18,7 +18,8 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 - **Charge Limit** (iOS 17.0+)
 - **Boot Chime** (iOS 17.0+)
 - **Stage Manager** (iOS 16.0+)
-- **Shutter Sound** (iOS 16.0+)
+- **Shutter Sound** (iOS 16.0+)  
+Please do not use camera silence for the purpose of voyeurism. For photographing pets, etc.
 - **Always-on Display (AoD)** (iOS 18.0+)
 - **Apple Pencil** (iOS 18.0+)
 - **Action Button** (iOS 17.0+)

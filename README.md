@@ -11,6 +11,9 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 <a href="https://github.com/straight-tamago/misakaX/releases/latest"><img src="https://img.shields.io/github/v/release/straight-tamago/misakaX?color=d774d5" /></a>
 <a href="https://github.com/straight-tamago/misakaX/releases"><img src="https://img.shields.io/github/downloads/straight-tamago/misakaX/total?color=d774d5" /></a>
 
+## How to use
+https://idevicecentral.com/jailbreak-tools/misakax-the-ultimate-customization-tool-for-ios-17-ios-18/
+
 ## Supported Features
 - **TrollStore Installer**
 

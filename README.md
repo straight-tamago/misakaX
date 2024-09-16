@@ -44,7 +44,7 @@ Please do not use camera silence for the purpose of voyeurism. For photographing
 **Some more features will be added soon. Please look forward to them** ❤️
 
 ## icon
-@tyler10290
+[tyler10290](https://x.com/tyler10290)
 
 ## Setting Up
 - You will need to extract your MobileGestalt file to use this tool. It can be extracted with this [Shortcut.](https://www.icloud.com/shortcuts/e2077174cc424253a24164a1df674ac4)

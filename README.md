@@ -1,7 +1,7 @@
 # misakaX
 An ultimate customization tool, uilitizing the bug that makes [TrollRestore](https://github.com/JJTech0130/TrollRestore) possible.
-### iOS /iPadOS 16.0 - 18.0 RC / 18.1 beta 3
-**Supported iOS 16 ~ 18.0 beta 8/18.1 beta 3**
+### iOS /iPadOS 16.0 - 18.0 / 18.1 beta 4
+**Supported iOS 16 ~ 18.0 /18.1 beta 4**
 
 > [!NOTE]
 > **Use this tool at your own risk. There is a chance you may bootloop, so create a backup before using.**
@@ -37,9 +37,9 @@ Please do not use camera silence for the purpose of voyeurism. For photographing
 - **Old Photo UI** (iOS 18.0+)
 - **iPad Apps Support** (iOS 16.0+)
 - **Developer Mode & Metal HUD** (iOS 16.0+)
-- **CameraControl** (18.0 RC+)
+- **CameraControl** (18.0+)
 - **AoD Vibrancy** (may affect others tweak, iOS 18.0+)
-- **Sleep apnea** (iOS 18.0RC+)
+- **Sleep apnea** (iOS 18.0+)
 
 **Some more features will be added soon. Please look forward to them** ❤️
 

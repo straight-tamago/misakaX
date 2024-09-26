@@ -11,6 +11,13 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 <a href="https://github.com/straight-tamago/misakaX/releases/latest"><img src="https://img.shields.io/github/v/release/straight-tamago/misakaX?color=d774d5" /></a>
 <a href="https://github.com/straight-tamago/misakaX/releases"><img src="https://img.shields.io/github/downloads/straight-tamago/misakaX/total?color=d774d5" /></a>
 
+## Join Discord Support 🍉 
+• Misaka Support ✨ **(Sever 1)**:   
+<a href='https://discord.gg/KSExeZVAGX'><img align='center' alt='Discord' src='https://img.shields.io/discord/1156843198799421490?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>  
+• Misaka Support ✨ **(Sever 2)**:  
+<a href='https://discord.gg/mVrPxY3X6W'><img align='center' alt='Discord' src='https://img.shields.io/discord/1074625970029477919?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>   
+
+
 ## How to Use
 https://idevicecentral.com/jailbreak-tools/misakax-the-ultimate-customization-tool-for-ios-17-ios-18/
 

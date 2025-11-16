@@ -24,7 +24,7 @@ https://idevicecentral.com/jailbreak-tools/misakax-the-ultimate-customization-to
 https://onejailbreak.com/blog/misakax/
 
 ## Supported Features
-- **TrollStore Installer**
+- **TrollStore Installer (iOS 15.2 ~ 16.7RC (20H18) & 17.0)**
 
 - **Dynamic Island** (iOS 16.0+)
 - **Charge Limit** (iOS 17.0+)
